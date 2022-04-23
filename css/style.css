@@ -22,3 +22,8 @@ body {
     padding: 0 5px;
     margin: 0 5px;
 }
+
+footer {
+    background-color: #222D44;
+    height: 75px;
+}
