@@ -3,7 +3,7 @@
 }
 
 nav {
-    background-color: #222D44;
+    background-color: #3E7669;
 }
 
 .navbar-brand {
@@ -15,7 +15,7 @@ nav {
 }
 
 body {
-    background-color: #FFF4F0;
+    background-color: #F3F7F7;
 }
 
 .logo {
@@ -24,6 +24,31 @@ body {
 }
 
 footer {
-    background-color: #222D44;
+    background-color: #3E7669;
     height: 75px;
 }
+
+.btn-pink {
+    background-color: #D1A072;
+}
+
+img {
+    max-width: 100%;
+    max-width: 100%
+}
+
+.profile-pic {
+    border-radius: 50%;
+}
+
+.prof {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-div {
+    background-color: #D1A072;
+}
+
+/* coolor.co colors: #285238, #C7D9B7, #EA9E8D, #F3F7F7, #0B0014 */
